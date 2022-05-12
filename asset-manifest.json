@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.20edcb6e.css",
-    "main.js": "/static/js/main.47a15142.js",
-    "static/js/787.4ae1b5fe.chunk.js": "/static/js/787.4ae1b5fe.chunk.js",
-    "static/media/whychooseus.png": "/static/media/whychooseus.fed5b87f6bb8b494d406.png",
-    "index.html": "/index.html",
-    "main.20edcb6e.css.map": "/static/css/main.20edcb6e.css.map",
-    "main.47a15142.js.map": "/static/js/main.47a15142.js.map",
-    "787.4ae1b5fe.chunk.js.map": "/static/js/787.4ae1b5fe.chunk.js.map"
+    "main.css": "/stroyservice_deploy/static/css/main.30ddfe9b.css",
+    "main.js": "/stroyservice_deploy/static/js/main.616c3088.js",
+    "static/js/787.4ae1b5fe.chunk.js": "/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js",
+    "static/media/whychooseus.png": "/stroyservice_deploy/static/media/whychooseus.fed5b87f6bb8b494d406.png",
+    "index.html": "/stroyservice_deploy/index.html",
+    "main.30ddfe9b.css.map": "/stroyservice_deploy/static/css/main.30ddfe9b.css.map",
+    "main.616c3088.js.map": "/stroyservice_deploy/static/js/main.616c3088.js.map",
+    "787.4ae1b5fe.chunk.js.map": "/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20edcb6e.css",
-    "static/js/main.47a15142.js"
+    "static/css/main.30ddfe9b.css",
+    "static/js/main.616c3088.js"
   ]
 }
