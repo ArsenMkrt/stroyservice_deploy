@@ -1,0 +1,172 @@
+{
+    "slides": [
+        {
+            "imageUrl": "slider/deva-darshan.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/jamar-penny.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/jimmy-desplanqu.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/maria-lupan.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/mika-baumeister.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/oleg-kuzmin.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/scott-blake.jpg",
+            "header": "",
+            "description": ""
+        },
+        {
+            "imageUrl": "slider/shane-mclendon.jpg",
+            "header": "",
+            "description": ""
+        }
+    ],
+    "ourServices": {
+        "header": "НАШИ СЕРВИСЫ",
+        "description": "Услуги по аренде строительной техники, и дорожные работы с гарантией",
+        "items": [
+            {
+                "imageUrl": "ourservices/tractors.png",
+                "header": "Укладка Асфальта",
+                "description": "Широкий спектр услуг по укладке асфальта",
+                "serviceList": [
+                    "Асфальтирование дорог и территорий",
+                    "Укладка асфальтовой крошки",
+                    "Благоустройство территорий"
+                ],
+                "detailUrl": "#"
+            },
+            {
+                "imageUrl": "ourservices/wioletta-plonkowska.png",
+                "header": "Аренда Спецтехники",
+                "description": "Аренда дорожно-строительной техники",
+                "serviceList": [
+                    "Асфальтоукладчики",
+                    "Виброплиты",
+                    "Катки"
+                ],
+                "detailUrl": "#"
+            },
+            {
+                "imageUrl": "ourservices/john-kakuk.png",
+                "header": "Консультация",
+                "description": "Консультация специалистов",
+                "serviceList": [
+                    "Оценка работы",
+                    "Составление сметы",
+                    "Помощь специалистов"
+                ],
+                "detailUrl": "#"
+            }
+        ]
+    },
+    "whyChooseUs": {
+        "header": "ПОЧЕМУ МЫ",
+        "description": "Качество и гарантия по конкурентным ценам",
+        "items": [
+            {
+                "url": "icons/brickwall.png",
+                "title": "КАЧЕСТВО",
+                "text": "Укладка производится с использованием современных методов повышения качества дорожного полотна, при этом с полным соблюдением технологии и нормативных требований.",
+                "detailUrl": "#"
+            },
+            {
+                "url": "icons/engineer.png",
+                "title": "ГАРАНТИЯ",
+                "text": "На восстановление дорог, равно как и на всякую иную услугу, действует гарантийное обеспечение согласно ГОСТу",
+                "detailUrl": "#"
+            },
+            {
+                "url": "icons/no-entry.png",
+                "title": "ЦЕНА",
+                "text": "Не смотря на высокое качество мы предлагаем лучшие цены на рынке. Наши специалисты оперативно посчитают точную стоимость после получения ТЗ по почте или по телефону.",
+                "detailUrl": "#"
+            }
+        ]
+    },
+    "statistics": {
+        "roadBuilt": {
+            "lengthKm": 1500,
+            "label": "ПОСТРОЕНО ДОРОГ"
+        },
+        "successProject": {
+            "count": 150,
+            "label": "СДАННЫХ ПРОЕКТОВ"
+        },
+        "happyClient": {
+            "count": 50,
+            "label": "ДОВОЛЬНЫХ КЛИЕНТОВ"
+        },
+        "employees": {
+            "count": 20,
+            "label": "СОТРУДНИКОВ"
+        }
+    },
+    "latestProjects": {
+        "header": "ПОСЛЕДНИЕ ПРОЕКТЫ",
+        "description": "Качество самое главное для нашей компании. И мы постоянно следим за нашей работой. ",
+        "product": [
+            {
+                "name": "все"
+            },
+            {
+                "name": "дороги"
+            },
+            {
+                "name": "площадка:"
+            },
+            {
+                "name": "траса"
+            },
+            {
+                "name": "все"
+            }
+        ],
+        "items": [
+            {
+                "url": "images/bak.jpeg",
+                "alt": "icon"
+            },
+            {
+                "url": "images/poxoc.jpeg",
+                "alt": "icon"
+            },
+            {
+                "url": "images/scuers.jpeg",
+                "alt": "icon"
+            },
+            {
+                "url": "images/stret.jpeg",
+                "alt": "icon"
+            },
+            {
+                "url": "images/trasa.jpeg",
+                "alt": "icon"
+            },
+            {
+                "url": "images/yards.jpeg",
+                "alt": "icon"
+            }
+        ]
+    }
+}
