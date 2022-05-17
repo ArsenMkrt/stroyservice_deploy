@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/stroyservice_deploy/static/css/main.30ddfe9b.css",
-    "main.js": "/stroyservice_deploy/static/js/main.4e937670.js",
-    "static/js/787.4ae1b5fe.chunk.js": "/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js",
-    "static/media/whychooseus.png": "/stroyservice_deploy/static/media/whychooseus.fed5b87f6bb8b494d406.png",
-    "index.html": "/stroyservice_deploy/index.html",
-    "main.30ddfe9b.css.map": "/stroyservice_deploy/static/css/main.30ddfe9b.css.map",
-    "main.4e937670.js.map": "/stroyservice_deploy/static/js/main.4e937670.js.map",
-    "787.4ae1b5fe.chunk.js.map": "/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js.map"
+    "main.css": "https://arsenmkrt.github.io/stroyservice_deploy/static/css/main.62349256.css",
+    "main.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/main.be50cb0a.js",
+    "static/js/981.240e7194.chunk.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/981.240e7194.chunk.js",
+    "static/js/787.4ae1b5fe.chunk.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js",
+    "static/media/whychooseus.png": "https://arsenmkrt.github.io/stroyservice_deploy/static/media/whychooseus.fed5b87f6bb8b494d406.png",
+    "index.html": "https://arsenmkrt.github.io/stroyservice_deploy/index.html",
+    "main.62349256.css.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/css/main.62349256.css.map",
+    "main.be50cb0a.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/main.be50cb0a.js.map",
+    "981.240e7194.chunk.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/981.240e7194.chunk.js.map",
+    "787.4ae1b5fe.chunk.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30ddfe9b.css",
-    "static/js/main.4e937670.js"
+    "static/css/main.62349256.css",
+    "static/js/main.be50cb0a.js"
   ]
 }

@@ -124,49 +124,101 @@
     },
     "latestProjects": {
         "header": "ПОСЛЕДНИЕ ПРОЕКТЫ",
-        "description": "Качество самое главное для нашей компании. И мы постоянно следим за нашей работой. ",
-        "product": [
+        "description": "Качество и сроки наше конкурентное преимущество",
+        "images": [
             {
-                "name": "все"
+                "originalUrl": "latestprojects/1_proj.jpg",
+                "thumbnailUrl": "latestprojects/1_proj_t.jpg",
+                "width": 1600,
+                "height": 1067
             },
             {
-                "name": "дороги"
+                "originalUrl": "latestprojects/2_proj.jpg",
+                "thumbnailUrl": "latestprojects/2_proj_t.jpg",
+                "width": 1600,
+                "height": 1199
             },
             {
-                "name": "площадка:"
+                "originalUrl": "latestprojects/3_proj.jpg",
+                "thumbnailUrl": "latestprojects/3_proj_t.jpg",
+                "width": 1600,
+                "height": 1200
             },
             {
-                "name": "траса"
+                "originalUrl": "latestprojects/4_proj.jpg",
+                "thumbnailUrl": "latestprojects/4_proj_t.jpg",
+                "width": 1600,
+                "height": 1199
             },
             {
-                "name": "все"
-            }
-        ],
-        "items": [
-            {
-                "url": "images/bak.jpeg",
-                "alt": "icon"
+                "originalUrl": "latestprojects/5_proj.jpg",
+                "thumbnailUrl": "latestprojects/5_proj_t.jpg",
+                "width": 1600,
+                "height": 1067
             },
             {
-                "url": "images/poxoc.jpeg",
-                "alt": "icon"
+                "originalUrl": "latestprojects/6_proj.jpg",
+                "thumbnailUrl": "latestprojects/6_proj_t.jpg",
+                "width": 1600,
+                "height": 982
             },
             {
-                "url": "images/scuers.jpeg",
-                "alt": "icon"
+                "originalUrl": "latestprojects/7_proj.jpg",
+                "thumbnailUrl": "latestprojects/7_proj_t.jpg",
+                "width": 1600,
+                "height": 1110
             },
             {
-                "url": "images/stret.jpeg",
-                "alt": "icon"
+                "originalUrl": "latestprojects/8_proj.jpg",
+                "thumbnailUrl": "latestprojects/8_proj_t.jpg",
+                "width": 1600,
+                "height": 1165
             },
             {
-                "url": "images/trasa.jpeg",
-                "alt": "icon"
+                "originalUrl": "latestprojects/9_proj.jpg",
+                "thumbnailUrl": "latestprojects/9_proj_t.jpg",
+                "width": 1600,
+                "height": 1060
             },
             {
-                "url": "images/yards.jpeg",
-                "alt": "icon"
+                "originalUrl": "latestprojects/10_proj.jpg",
+                "thumbnailUrl": "latestprojects/10_proj_t.jpg",
+                "width": 1600,
+                "height": 1200
             }
         ]
+    },
+	"aboutCompany": {
+        "header": "О КОМПАНИИ",
+        "description": "Качество и гарантия по конкурентным ценам",
+        "imageLink": "aboutCompany/company.png",
+		"textHeader": "Путь компании",
+		"text": "Несколько основных производителей асфальтоукладчиков выпускают новые модели, обеспечивающие повышенную производительность и возможности, — пишет Майк Вуф. Темпы развития сектора оборудования для укладки асфальта высоки, и на рынок выходит широкий спектр новых машин. Все основные производители представляют новые модели на 2017 год, а также продолжаются ключевые бизнес-разработки. Одним из наиболее заметных деловых шагов в секторе дорожной техники является соглашение между Несколько основных производителей асфальтоукладчиков выпускают Несколько основных производителей асфальтоукладчиков выпускают Несколько основных производителей асфальтоукладчиков выпускают Несколько основных производителей асфальтоукладчиков выпускают Несколько основных производителей асфальтоукладчиков выпускают"
+
+            
+    },
+	"blogPosts": {
+        "header": "ПОСЛЕДНЯЯ СТАТЬЯ В БЛОГЕ",
+        "description": "Качество и гарантия по конкурентным ценам",
+		"mainImage": "blogPosts/mainImage.jpeg",
+        "images": [
+			{
+				"url": "blogPosts/blogPosts1.jpeg",
+				"title": "Путь компании",
+				"text": " Lorem Ipsum is simply dummy text of printing and typesetting Ipsum has been the industry's dummy"
+			},
+			{
+				"url": "blogPosts/blogPosts2.jpeg",
+				"title": "Путь компании",
+				"text": " Lorem Ipsum is simply dummy text of printing and typesetting Ipsum has been the industry's dummy"
+			},
+			{
+				"url": "blogPosts/blogPosts3.png",
+				"title": "Путь компании",
+				"text": " Lorem Ipsum is simply dummy text of printing and typesetting Ipsum has been the industry's dummy"
+			}
+		]
+		
+            
     }
 }
