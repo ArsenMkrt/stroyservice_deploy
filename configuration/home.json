@@ -216,9 +216,21 @@
     },
     "clientLogo": {
         "logos": [
-            {},
-            {},
-            {}
+            {
+                "url":"icons/w1.png"
+            },
+            {
+                "url":"icons/w2.png"
+            },
+            {
+                "url":"icons/w3.png"
+            },
+            {
+                "url":"icons/w4.png"
+            },
+            {
+                "url":"icons/w5.png"
+            }
         ]
     }
 }
