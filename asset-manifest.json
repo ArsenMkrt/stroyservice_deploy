@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://arsenmkrt.github.io/stroyservice_deploy/static/css/main.5a98ca37.css",
-    "main.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/main.7c5408df.js",
+    "main.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/main.038dbc7f.js",
     "static/js/981.240e7194.chunk.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/981.240e7194.chunk.js",
     "static/js/787.4ae1b5fe.chunk.js": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js",
     "static/media/whychooseus.png": "https://arsenmkrt.github.io/stroyservice_deploy/static/media/whychooseus.fed5b87f6bb8b494d406.png",
     "index.html": "https://arsenmkrt.github.io/stroyservice_deploy/index.html",
     "main.5a98ca37.css.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/css/main.5a98ca37.css.map",
-    "main.7c5408df.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/main.7c5408df.js.map",
+    "main.038dbc7f.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/main.038dbc7f.js.map",
     "981.240e7194.chunk.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/981.240e7194.chunk.js.map",
     "787.4ae1b5fe.chunk.js.map": "https://arsenmkrt.github.io/stroyservice_deploy/static/js/787.4ae1b5fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a98ca37.css",
-    "static/js/main.7c5408df.js"
+    "static/js/main.038dbc7f.js"
   ]
 }
