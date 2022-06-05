@@ -238,7 +238,8 @@
                 "url": "https://mosoblgaz.ru/"
             },
             {
-                "imageUrl": "icons/gazprom.png"
+                "imageUrl": "icons/gazprom.png",
+                "url": "https://www.gazprom.com/"
             }
         ]
     }
