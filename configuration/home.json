@@ -190,7 +190,7 @@
     },
     "aboutCompany": {
         "header": "О КОМПАНИИ",
-        "description": "На рынке начиная с 2019 года",
+        "description": "На рынке начиная с 2011 года",
         "imageUrl": "aboutcompany/aboutCompanyCover.jpg",
         "signatureUrl": "aboutcompany/signature.png",
         "textHeader": "Письмо от основателя компании",
@@ -218,22 +218,27 @@
     "clientLogo": {
         "logos": [
             {
-                "url": "icons/magnit.png"
+                "imageUrl": "icons/magnit.png",
+                "url": "https://magnit.ru/"
             },
             {
-                "url": "icons/pyatorechka.png"
+                "imageUrl": "icons/pyatorechka.png",
+                "url": "https://5ka.ru/"
             },
             {
-                "url": "icons/lenta.png"
+                "imageUrl": "icons/lenta.png",
+                "url": "https://lenta.com/"
             },
             {
-                "url": "icons/ozon.png"
+                "imageUrl": "icons/ozon.png",
+                "url": "https://www.ozon.ru/"
             },
             {
-                "url": "icons/mosoblgaz.png"
+                "imageUrl": "icons/mosoblgaz.png",
+                "url": "https://mosoblgaz.ru/"
             },
             {
-                "url": "icons/gazprom.png"
+                "imageUrl": "icons/gazprom.png"
             }
         ]
     }
